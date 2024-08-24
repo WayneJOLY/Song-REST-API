@@ -4,7 +4,7 @@ This API allows you to manage a collection of songs with CRUD (Create, Read, Upd
 Setup Steps
 1. Clone the application
 
-git clone https://github.com/youruser/api-songs.git
+https://github.com/WayneJOLY/Song-REST-API.git
 
 
 
